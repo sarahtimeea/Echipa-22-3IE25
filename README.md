@@ -10,3 +10,7 @@ This project demonstrates the use of GitHub workflow components: branches, pull 
 - Fangli Mihai
 - Sauca Robert
 
+modificat in VScode - Sarah-Timeea
+modificat in VScode - Debnar Patrik
+modificat in VScode - Fangli Mihai
+modificat in VScode - Sauca Robert
